@@ -13,5 +13,5 @@ Pytorch
 #### Models
 > resnet50 + SGD<br>
 > resnet50 + SGD + Momentum<br>
-> resnet50 + SGD + weight-decay<br>
-> mobilenet-v2 + SGD + weight-decay<br>
+> resnet50 + SGD + Momentum + weight-decay<br>
+> mobilenet-v2 + SGD + Momentum + weight-decay<br>
