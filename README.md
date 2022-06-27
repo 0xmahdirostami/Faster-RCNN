@@ -10,3 +10,8 @@ University: [Shahid Beheshti University](https://www.sbu.ac.ir/)
 [raccoon_dataset](https://github.com/experiencor/raccoon_dataset)
 ### Framework:
 Pytorch
+#### Models
+> resnet50 + SGD<br>
+> resnet50 + SGD + Momentum<br>
+> resnet50 + SGD + weight-decay<br>
+> mobilenet-v2 + SGD + weight-decay<br>
