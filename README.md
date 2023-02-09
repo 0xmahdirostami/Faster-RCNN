@@ -7,7 +7,7 @@ CS-SBU-MSc<br>
 University: [Shahid Beheshti University](https://www.sbu.ac.ir/)
 ## Students:
 > [Reza Pourbahreini](https://github.com/rz-pb)<br>
-> [Mahdi Rostami](https://github.com/mahdi-rostami)
+> [Mahdi Rostami](https://github.com/0xmahdirostami)
 ### Dataset:
 [raccoon_dataset](https://github.com/experiencor/raccoon_dataset)
 ### Framework:
